@@ -1,11 +1,11 @@
-# 💫 About Me:
+# About Me:
 I'm David, a First Class Honours Software Development graduate currently pursuing an MSc in Software Design with Cloud Native Computing at TUS.
 
 Most of my work is backend and full-stack. I've built a full-stack AI career platform with explainable recommendation logic and LLM-assisted coaching, a Spring Boot e-commerce application, and a reactive Java service using WebFlux and Server-Sent Events.
 
 I'm especially interested in backend engineering, cloud-native systems, distributed systems and software quality.
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
