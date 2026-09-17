@@ -1,9 +1,9 @@
 # About Me:
 I'm David, a First Class Honours Software Development graduate currently pursuing an MSc in Software Design with Cloud Native Computing at TUS.
 
-Most of my work is backend and full-stack. I've built a full-stack AI career platform with explainable recommendation logic and LLM-assisted coaching, a Spring Boot e-commerce application, and a reactive Java service using WebFlux and Server-Sent Events.
+Most of my work is backend-focused, though I work full-stack when needed. I've built web applications like an AI career platform with real recommendation logic, a Spring Boot e-commerce app with proper auth and role handling, and a reactive service using WebFlux and Server-Sent Events. You can have a look at the details in my pinned repos below.
 
-I'm especially interested in backend engineering, cloud-native systems, distributed systems and software quality.
+I'm still early in my career and mainly want to keep learning and growing as a developer. I love building things that are actually useful while understanding why they work under the hood.
 
 ## Tech Stack
 
