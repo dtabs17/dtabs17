@@ -1,9 +1,8 @@
-# About Me:
-I'm David, a First Class Honours Software Development graduate currently pursuing an MSc in Software Design with Cloud Native Computing at TUS.
+## About Me
 
-Most of my work is backend-focused, though I work full-stack when needed. I've built web applications like an AI career platform with real recommendation logic, a Spring Boot e-commerce app with proper auth and role handling, and a reactive service using WebFlux and Server-Sent Events. You can have a look at the details in my pinned repos below.
+I'm a First Class Honours Software Development graduate, currently pursuing an MSc in Software Design with Cloud Native Computing at TUS.
 
-I'm still early in my career and mainly want to keep learning and growing as a developer. I love building things that are actually useful while understanding why they work under the hood.
+I'm mainly interested in backend development, particularly API design and databases. I also enjoy building full-stack applications, and recently I've been involving myself more in cloud computing, microservices and deployment.
 
 ## Tech Stack
 
@@ -32,5 +31,5 @@ I'm still early in my career and mainly want to keep learning and growing as a d
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
-## GitHub Koi
+## Koi
 <img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
