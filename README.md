@@ -31,3 +31,6 @@ I'm still early in my career and mainly want to keep learning and growing as a d
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+## GitHub Koi
+<img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
