@@ -32,4 +32,7 @@ I'm mainly interested in backend development, particularly API design and databa
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ## Koi
-<img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My GitHub activity koi" />
+</p>
